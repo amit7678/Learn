@@ -1,6 +1,4 @@
-package com.p;
-import java.util.*;
-import java.util.stream.Collectors;
+
 public class Learn {
 
 	public static void main(String[] args) {
